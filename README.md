@@ -18,11 +18,10 @@ The farthest mission in red
 
 
 Extra effort:
-Make the grid sortable by all fields -
-this can be a simple drop-down to select the field to sort by
-Using Google Maps api, place map markers on the world map - one for each mission.
-Explain the complexity of your algorithm
-What test cases would you check?
+*Make the grid sortable by all fields - this can be a simple drop-down to select the field to sort by
+*Using Google Maps api, place map markers on the world map - one for each mission.
+*Explain the complexity of your algorithm
+*What test cases would you check?
 
 
 data:
