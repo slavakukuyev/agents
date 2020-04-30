@@ -6,7 +6,7 @@
     "react-scripts": "^3.0.1"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.14",
     "moment": "^2.24.0",
     "react": "^15.6.2",
